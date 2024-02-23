@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Tự động tối ưu hóa hình ảnh và phân phối ở định dạng hiện đại
+Xóa hình nền khỏi hình ảnh
+Tự động thêm lớp phủ hình ảnh và văn bản vào hình ảnh
+Cắt xén và thay đổi kích thước dựa trên AI
+Chuyển đổi hình ảnh bằng màu sắc và hiệu ứng
+Tạo thẻ truyền thông xã hội Open Graph một cách nhanh chóng
+Tiện ích tải lên thả xuống
+...tất cả đều có quy mô lớn với Cloudinary
